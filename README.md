@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on an Full-Stack Android project<br>👯 I'm looking for collaboration for this project<br>🌱 I'm currently learning express 💨
+🔭 I'm currently working on a Full-Stack Android project<br>👯 I'm looking for collaboration for this project<br>🌱 I'm currently learning express 💨
 
 
 ## 🌐 Socials:
